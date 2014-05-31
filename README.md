@@ -1,7 +1,4 @@
-journalists-internet
-====================
-
-The Journalists' Internet – training notes
+# The Journalists' Internet
 
 ## Introduction to the internet for journalists
 
