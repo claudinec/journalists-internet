@@ -1,10 +1,11 @@
-# The Journalists' Internet
+# The Journalist's Internet
 
 ## Introduction to the internet for journalists
 
    * Finding things out
       * Search engines
       * Wikipedia
+      * Blogs and RSS
       * Reddit
       * Open data
    * Building your online presence
@@ -12,14 +13,13 @@
       * Facebook
       * LinkedIn
       * Domain names
-      * Blogs and websites 
+      * Blogs and websites
          * Different types
          * When to get a professional to build one
          * Building your own
 
 
 ## Internet security for journalists
-
 
    * Privacy and the cloud
    * Password management
