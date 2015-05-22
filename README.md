@@ -18,7 +18,6 @@
          * When to get a professional to build one
          * Building your own
 
-
 ## Internet security for journalists
 
    * Privacy and the cloud
@@ -26,7 +25,6 @@
    * Anonymous/incognito browsing
    * Secure email, PGP and GPG
    * TOR
-
 
 ## Wordpress for journalists
 
