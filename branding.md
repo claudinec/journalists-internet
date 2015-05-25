@@ -15,16 +15,10 @@ Trustworthy registrars:
 
 ## Email addresses
 
-Redirect to an existing address, or host your own domain email on FastMail, Gmail, or with your web host or domain registrar if they provide it.
+Redirect to an existing address, or host your own domain email on [FastMail](https://www.fastmail.com/mail/), [Google Apps](https://www.google.com.au/intx/en_au/work/apps/business/), or with your web host or domain registrar if they provide it.
 
 ## Blogs and websites
 
-Redirect to a blog or portfolio, or build your own on WordPress.
+Redirect to a blog or portfolio, or build your own on WordPress. You can get a free blog on [WordPress.com](https://wordpress.com/). A [Premium WordPress.com](https://store.wordpress.com/plans/) account includes the use of your own domain, more storage, and other features. You can also install WordPress on your own web host.
 
 Choose a theme from https://theme.wordpress.com/.
-
-## Twitter
-
-## Facebook
-
-## LinkedIn
